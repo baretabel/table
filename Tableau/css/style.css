@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    
+}
+td{
+    border: solid black;
+    text-align: center;
+}
+
+
+.un{
+    border: none;
+ 
+}
